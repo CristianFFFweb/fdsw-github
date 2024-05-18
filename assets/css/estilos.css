@@ -37,3 +37,8 @@ body {
   }
 
 }
+
+.img-logo {
+  max-height: 10%;
+  display: flex;
+}
