@@ -39,6 +39,6 @@ body {
 }
 
 .img-logo {
-  max-height: 10%;
-  display: flex;
+  max-height: 50px;
+  /* display: flex; */
 }
