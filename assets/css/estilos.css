@@ -5,7 +5,7 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("/fdsw-github/assets/img/IAimagen3.jpg"); /* cambio de imagen de fondo para header */
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
